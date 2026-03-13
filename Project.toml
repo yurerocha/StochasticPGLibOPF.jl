@@ -1,0 +1,4 @@
+name = "StochasticPGLibOPF"
+uuid = "838eb07c-39d5-4e83-82da-9a67e9c1fda0"
+authors = ["Yure Rocha <yure.trs@gmail.com>"]
+version = "0.1.0"

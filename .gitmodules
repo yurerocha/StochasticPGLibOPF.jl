@@ -1,0 +1,6 @@
+[submodule "external/CATS-CaliforniaTestSystem"]
+	path = external/CATS-CaliforniaTestSystem
+	url = git@github.com:WISPO-POP/CATS-CaliforniaTestSystem.git
+[submodule "external/pglib-opf"]
+	path = external/pglib-opf
+	url = git@github.com:power-grid-lib/pglib-opf.git
